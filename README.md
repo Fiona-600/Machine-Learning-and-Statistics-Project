@@ -63,6 +63,8 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
 
 <br/>
 
+• A *‘requirements.txt’* file containing information that facilitates the user to quickly run the notebooks with minimal configuration
+
 • A python program file called *‘scikit-learn.ipynb’* which contains the following:
 
   1. A demonstration of the following three scikit-learn algorithms:
@@ -89,7 +91,7 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
 
   •	Jupyter Notebook - https://jupyter.org/install  
 
-  •	Python version 3.8.3 - downloaded via Anaconda Navigator 3 to Windows 10 OS
+  •	Python version 3.8.8 - downloaded via Anaconda Navigator 3 to Windows 10 operating system
 
   •	Cmder Console Emulator - https://cmder.net/
 
