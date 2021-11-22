@@ -12,7 +12,7 @@ This project provides an overview and demonstrations of the scikit-learn and sci
 
 Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
-![alt text](https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png)
+![alt text](https://res.cloudinary.com/practicaldev/image/fetch/s--q6Z3s0MW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png)
 
 *Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
 
@@ -64,8 +64,6 @@ The GITHUB repository contains:
   6.	References
 
 • A *‘requirements.txt’* file containing information that facilitates the user to quickly run the notebooks with minimal configuration
-
-<br/>
 
 • A python program file called *‘scikit-learn.ipynb’* which contains the following:
 
