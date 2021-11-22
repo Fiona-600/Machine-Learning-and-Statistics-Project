@@ -48,6 +48,7 @@ The GITHUB repository contains:
 • A python program file called ‘scikit-learn.ipynb’ which contains the following:
 
   1. A demonstration of the following three scikit-learn algorithms:
+
     •	
     •	
     •	
@@ -57,6 +58,7 @@ The GITHUB repository contains:
 • A python program file called ‘scikit-stats.ipynb’ which contains:
 
   1.	A demonstration of a hypothesis test using ANOVA
+  
   2.	Related visualisation and plots
 
 • A ‘LICENSE’ file containing a copy of the MIT Licence
@@ -85,7 +87,6 @@ The GITHUB repository contains:
 
 •	Clone or download the github repository 'https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project' onto your local drive
 •	Open the Jupyter Notebook files in your browser using CMDER
-
 •	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook to re-run the entire code
 •	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
