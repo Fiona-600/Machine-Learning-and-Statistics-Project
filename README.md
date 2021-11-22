@@ -45,19 +45,19 @@ The GITHUB repository contains:
 
 • A ‘gitignore’ file containing any files or file types which should be ignored by the github repository
 
-• A python program file called ‘scikit-learn.ipynb’ which contains:
+• A python program file called ‘scikit-learn.ipynb’ which contains the following:
 
-    • A demonstration of the following three scikit-learn algorithms:
-      1.	 
-      2.	    
-      3. 
-
-    •	Related visualisation and plots for each algorithm
+  1. A demonstration of the following three scikit-learn algorithms:
+    •	
+    •	
+    •	
+  
+  2.	Related visualisation and plots for each algorithm
 
 • A python program file called ‘scikit-stats.ipynb’ which contains:
 
-    •	A demonstration of a hypothesis test using ANOVA
-    •	Related visualisation and plots
+  1.	A demonstration of a hypothesis test using ANOVA
+  2.	Related visualisation and plots
 
 • A ‘LICENSE’ file containing a copy of the MIT Licence
 
