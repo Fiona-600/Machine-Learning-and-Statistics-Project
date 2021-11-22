@@ -49,8 +49,6 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
 
 • A *'project-instructions.pdf'* file which outlines detailed instructions for the project 
 
-<br/>
-
 • A *‘README.md’* file which contains:
 
   1.	The purpose of the project 
@@ -127,13 +125,13 @@ Ian McLoughlin for all the helpful tips in completing this assignment
 
 **References**
 
-[1] 	
-[2]	
-[3]	
-[4]	
-[5]	
-[6]	
-[7]	
-[8]	
-[9]	
-[10]	
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+[6] 
+[7] 
+[8] 
+[9] 
+[10] 
