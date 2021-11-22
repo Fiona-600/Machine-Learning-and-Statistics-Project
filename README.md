@@ -77,10 +77,15 @@ The GITHUB repository contains:
 **Required Programs**
 
   •	Anaconda Navigator 3 - https://www.anaconda.com/
+
   •	Jupyter Notebook - https://jupyter.org/install  
+
   •	Python version 3.8.3 - downloaded via Anaconda Navigator 3 to Windows 10 OS
+
   •	Cmder Console Emulator - https://cmder.net/
+
   •	GitHub Repository Storage - https://github.com/
+  
   •	Firefox Internet Explorer - https://www.mozilla.org/en-US/firefox/new/
 
 
