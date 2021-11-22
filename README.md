@@ -41,7 +41,9 @@ The elements explored will be:
 
 The project will be stored in a GITHUB repository at url: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
-*The GITHUB repository contains:*
+<br/>
+
+The GITHUB repository contains:
 
 • A *‘gitignore’* file containing any files or file types which should be ignored by the github repository
 
@@ -61,9 +63,9 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
   8.	Authors and contributors
   6.	References
 
-<br/>
-
 • A *‘requirements.txt’* file containing information that facilitates the user to quickly run the notebooks with minimal configuration
+
+<br/>
 
 • A python program file called *‘scikit-learn.ipynb’* which contains the following:
 
