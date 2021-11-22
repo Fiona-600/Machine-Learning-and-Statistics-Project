@@ -46,10 +46,12 @@ The GITHUB repository contains:
 • A ‘gitignore’ file containing any files or file types which should be ignored by the github repository
 
 • A python program file called ‘scikit-learn.ipynb’ which contains:
-  •	A demonstrations of the following three scikit-learn algorithms:
-      1.	 
-      2.	    
-      3. 	  
+
+  • A demonstrations of the following three scikit-learn algorithms:
+    1.	 
+    2.	    
+    3. 
+
   •	Related visualisation and plots for each algorithm
 
 • A python program file called ‘scikit-stats.ipynb’ which contains:
