@@ -1,51 +1,43 @@
-  
-Machine Learning and Statistics 2021 Project Submission
+**Machine Learning and Statistics 2021 Project Submission**
 
-GMIT Higher Diploma in Data Analytics
+**GMIT Higher Diploma in Data Analytics**
 
-Submitted by Fiona Lee - 19 December 2021
+**Submitted by Fiona Lee - 19 December 2021**
 
-
-Introduction
+**Introduction**
 
 This project provides an overview of the scikit-learn and scipy.stats packages.  The project will include demonstrations of three scikit-learn algorithms, a demonstration of a hypothesis test using ANOVA and related visualisation and plots for each.
 
 ![alt text](https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png)
 
-Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
+*Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
 
 
-Qualities and attributes of the XXX dataset
-
-The original dataset contained XXX samples (rows) and 2 variables (columns) namely: 'XXX' and 'XXX'.
-
-The changes made to the original dataset are as follows:
-
-
+**Qualities and attributes of the XXX dataset**
 
 Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
 
-Purpose of the project
+**Purpose of the project**
 
 The elements explored will be:
 
-- An overview of the scikit-learn and scipy.stats packages 
-- Demonstrations of three scikit-learn algorithms
-- Demonstration of a hypothesis test using ANOVA
-- Related visualisation and plots 
+• An overview of the scikit-learn and scipy.stats packages 
+• Demonstrations of three scikit-learn algorithms
+• Demonstration of a hypothesis test using ANOVA
+• Related visualisation and plots 
 
 
-Research & Assumptions
-
-
-
-
-Conclusions and Findings
+**Research & Assumptions**
 
 
 
-Structure & Project Navigation
+
+**Conclusions and Findings**
+
+
+
+**Structure & Project Navigation**
 
 The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
@@ -54,18 +46,16 @@ The GITHUB repository contains:
 • A ‘gitignore’ file containing any files or file types which should be ignored by the github repository
 
 • A python program file called ‘scikit-learn.ipynb’ which contains:
-  •
-  •
-  •   
-  •
-  •
+  •  A demonstrations of the following three scikit-learn algorithms:
+      •
+      •   
+      •  
+  •  Related visualisation and plots for each algorithm
   
 • A python program file called ‘scikit-stats.ipynb’ which contains:
-  •
-  •
-  •   
-  •
-  •  
+  •  A demonstration of a hypothesis test using ANOVA
+  •  Related visualisation and plots
+
   
 • A ‘LICENSE’ file containing a copy of the MIT Licence
 
@@ -79,7 +69,7 @@ The GITHUB repository contains:
   
   
 
-Required Programs
+**Required Programs**
 
 •	Anaconda Navigator 3 - https://www.anaconda.com/
 •	Jupyter Notebook - https://jupyter.org/install  
@@ -89,15 +79,15 @@ Required Programs
 •	Firefox Internet Explorer - https://www.mozilla.org/en-US/firefox/new/
 
 
-Opening and running the code in the Jupyter Notebook
+**Opening and running the code in the Jupyter Notebook**
 
-•	Clone or download the 'FinalProject.ipynb' file from Github onto your local drive
-•	Open the Jupyter Notebook file in your browser using CMDER
+•	Clone or download the github repository 'https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project' onto your local drive
+•	Open the Jupyter Notebook files in your browser using CMDER
 •	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook to re-run the entire code
 •	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
 
-Libraries and Modules
+**Libraries and Modules**
 
 •	NumPy - ‘import numpy as np’
 •	Pandas – ‘import pandas as pd’   
@@ -108,18 +98,21 @@ Libraries and Modules
 •	from sklearn.linear_model import LinearRegression  
 
 
-Author & Contributors
+**Author & Contributors**
 
 Fiona Lee
 
-License
+
+**License**
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-Acknowledgments
+
+**Acknowledgments**
 
 Ian McLoughlin for all the helpful tips in completing this assignment
 
-References
+
+**References**
 
 
