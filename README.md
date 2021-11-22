@@ -1,4 +1,4 @@
-**Machine Learning and Statistics 2021 Project Submission**
+**Machine Learning and Statistics - 2021 Project Submission**
 
 **GMIT Higher Diploma in Data Analytics**
 
@@ -14,7 +14,7 @@ Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Pr
 
 *Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
 
-
+<br/>
 **Purpose of the project**
 
 The elements explored will be:
@@ -24,19 +24,19 @@ The elements explored will be:
 3. Demonstration of a hypothesis test using ANOVA
 4. Related visualisations and plots 
 
-
+<br/>
 **Research & Assumptions**
 
 
 
-
+<br/>
 **Conclusions and Findings**
 
 
-
+<br/>
 **Structure & Project Navigation**
 
-The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
+The project will be stored in a GITHUB repository at url: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
 *The GITHUB repository contains:*
 
@@ -48,11 +48,12 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 • A *‘README.md’* file which contains:
 
-  1.	An introduction to the dataset 
+  1.	The purpose of the project 
   2.	An explanation of the 'XXX' 
   3.	Conclusions and findings        
-  4.	How to run the python code
-  5.	References used in completing the project
+  4.	How to run the python code 
+  5.	Libraries and modules which need to be imported to run the code
+  6.	References used in completing the project
 
 • A python program file called *‘scikit-learn.ipynb’* which contains the following:
 
@@ -64,17 +65,13 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
   
   2.	Related visualisations and plots for each algorithm
 
-
 • A python program file called *‘scikit-stats.ipynb’* which contains:
 
   1.	A demonstration of a hypothesis test using ANOVA
   
   2.	Related visualisations and plots
 
-
-
-
-
+<br/>
 **Required Programs**
 
   •	Anaconda Navigator 3 - https://www.anaconda.com/
@@ -89,7 +86,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
   •	Firefox Internet Explorer - https://www.mozilla.org/en-US/firefox/new/
 
-
+<br/>
 **Opening and running the code in the Jupyter Notebook**
 
   1.	Clone or download the github repository 'https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project' onto your local drive
@@ -97,7 +94,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
   3.	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook to re-run the entire code
   4.	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
-
+<br/>
 **Libraries and Modules**
 
   •	NumPy - ‘import numpy as np’
