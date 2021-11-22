@@ -6,7 +6,7 @@
 
 **Introduction**
 
-This project provides an overview of the scikit-learn and scipy.stats packages.  The project will include demonstrations of three scikit-learn algorithms, a demonstration of a hypothesis test using ANOVA and related visualisation and plots for each.
+This project provides an overview of the scikit-learn and scipy.stats packages.  The project will include demonstrations of three scikit-learn algorithms, a demonstration of a hypothesis test using ANOVA and related visualisations and plots for each.
 
 ![alt text](https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png)
 
@@ -25,7 +25,7 @@ The elements explored will be:
 1. An overview of the scikit-learn and scipy.stats packages 
 2. Demonstrations of three scikit-learn algorithms
 3. Demonstration of a hypothesis test using ANOVA
-4. Related visualisation and plots 
+4. Related visualisations and plots 
 
 
 **Research & Assumptions**
@@ -41,13 +41,13 @@ The elements explored will be:
 
 The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
-The GITHUB repository contains:
+*The GITHUB repository contains:*
 
 • A *‘gitignore’* file containing any files or file types which should be ignored by the github repository
 
 • A *‘LICENSE’* file containing a copy of the MIT Licence
 
-• A *'project-instructions.pdf'* file which outlines detailed instructions for the project
+• A *'project-instructions.pdf'* file which outlines detailed instructions for the project 
 
 • A *‘README.md’* file which contains:
 
@@ -65,14 +65,14 @@ The GITHUB repository contains:
     •	
     •	
   
-  2.	Related visualisation and plots for each algorithm
+  2.	Related visualisations and plots for each algorithm
 
 
 • A python program file called *‘scikit-stats.ipynb’* which contains:
 
   1.	A demonstration of a hypothesis test using ANOVA
   
-  2.	Related visualisation and plots
+  2.	Related visualisations and plots
 
 
 
@@ -115,13 +115,13 @@ Ian McLoughlin for all the helpful tips in completing this assignment
 
 **References**
 
-[1] 
-[2]
-[3]
-[4]
-[5]
-[6]
-[7]
-[8]
-[9]
-[10]
+[1] 	
+[2]	
+[3]	
+[4]	
+[5]	
+[6]	
+[7]	
+[8]	
+[9]	
+[10]	
