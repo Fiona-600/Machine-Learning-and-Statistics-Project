@@ -12,7 +12,7 @@ This project provides an overview and demonstrations of the scikit-learn and sci
 
 Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scikit_learn_logo.svg/776px-Scikit_learn_logo.svg.png)
+![alt text](https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png)
 
 *Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
 
