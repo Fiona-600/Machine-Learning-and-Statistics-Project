@@ -15,11 +15,6 @@ Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Pr
 *Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
 
 
-**Qualities and attributes of the XXX dataset**
-
-
-
-
 **Purpose of the project**
 
 The elements explored will be:
