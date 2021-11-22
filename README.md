@@ -95,11 +95,8 @@ The GITHUB repository contains:
 **Libraries and Modules**
 
   •	NumPy - ‘import numpy as np’
-  •	Pandas – ‘import pandas as pd’   
   •	From Pandas import Dataframe’       
   •	Matplotlib - ‘import matplotlib.pyplot as plt’
-  •	from sklearn.metrics import r2_score 
-  •	from sklearn import linear_model   
   •	from sklearn.linear_model import LinearRegression  
 
 
