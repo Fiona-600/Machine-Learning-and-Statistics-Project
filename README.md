@@ -6,7 +6,9 @@
 
 **Introduction**
 
-This project provides an overview of the scikit-learn and scipy.stats packages.  The project will include demonstrations of three scikit-learn algorithms, a demonstration of a hypothesis test using ANOVA and related visualisations and plots for each.
+This project provides an overview and demonstrations of the scikit-learn and scipy.stats packages. 
+
+Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
 ![alt text](https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png)
 
@@ -15,7 +17,7 @@ This project provides an overview of the scikit-learn and scipy.stats packages. 
 
 **Qualities and attributes of the XXX dataset**
 
-Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
+
 
 
 **Purpose of the project**
