@@ -31,12 +31,9 @@ The elements explored will be:
 
 **Research & Assumptions**
 
-
-
 <br/>
 
 **Conclusions and Findings**
-
 
 <br/>
 
@@ -52,14 +49,19 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
 
 • A *'project-instructions.pdf'* file which outlines detailed instructions for the project 
 
+<br/>
+
 • A *‘README.md’* file which contains:
 
   1.	The purpose of the project 
-  2.	An explanation of the 'XXX' 
-  3.	Conclusions and findings        
-  4.	How to run the python code 
-  5.	Libraries and modules which need to be imported to run the code
-  6.	References used in completing the project
+  2.	Research and assumptions 
+  3.	Conclusions and findings  
+  4.	Structure and project navigation
+  5.	Required programs
+  6.	Details of how to run the code 
+  7.	Libraries and modules which need to be imported to run the code
+  8.	Authors and contributors
+  6.	References
 
 <br/>
 
