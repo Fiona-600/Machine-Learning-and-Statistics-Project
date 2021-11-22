@@ -45,6 +45,18 @@ The GITHUB repository contains:
 
 • A *‘gitignore’* file containing any files or file types which should be ignored by the github repository
 
+• A *‘LICENSE’* file containing a copy of the MIT Licence
+
+• A *'project-instructions.pdf'* file which outlines detailed instructions for the project
+
+• A *‘README.md’* file which contains:
+
+  1.	An introduction to the dataset 
+  2.	An explanation of the 'XXX' 
+  3.	Conclusions and findings        
+  4.	How to run the python code
+  5.	References used in completing the project
+
 • A python program file called *‘scikit-learn.ipynb’* which contains the following:
 
   1. A demonstration of the following three scikit-learn algorithms:
@@ -62,15 +74,7 @@ The GITHUB repository contains:
   
   2.	Related visualisation and plots
 
-• A *‘LICENSE’* file containing a copy of the MIT Licence
 
-• A *‘README.md’* file which contains:
-
-  1.	An introduction to the dataset 
-  2.	An explanation of the 'XXX' 
-  3.	Conclusions and findings        
-  4.	How to run the python code
-  5.	References used in completing the project
 
 
 
@@ -85,7 +89,7 @@ The GITHUB repository contains:
   •	Cmder Console Emulator - https://cmder.net/
 
   •	GitHub Repository Storage - https://github.com/
-  
+
   •	Firefox Internet Explorer - https://www.mozilla.org/en-US/firefox/new/
 
 
