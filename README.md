@@ -10,7 +10,7 @@ Introduction
 This project provides an overview of the scikit-learn and scipy.stats packages.  The project will include demonstrations of three scikit-learn algorithms, a demonstration of a hypothesis test using ANOVA and related visualisation and plots for each.
 
 
-![alt text](https://www.bing.com/images/search?view=detailV2&ccid=7xn0jx3L&id=3E7F03F8776CFACBE045DC046CEBC57CF7801FCE&thid=OIP.7xn0jx3Lh46WEZYJxDKSKAHaCp&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ef19f48f1dcb878e96119609c4329228%3frik%3dzh%252bA93zF62wE3A%26riu%3dhttp%253a%252f%252fdataaspirant.com%252fwp-content%252fuploads%252f2014%252f10%252fscikit-learn-logo.png%26ehk%3dqnwrznWmvsdopTN4rjtE%252bbeJEyuNb%252bA%252f185UKrIKhH0%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=202&expw=566&q=scikit-learn&simid=608006423978468045&FORM=IRPRST&ck=FC29F5E943992649D40BF2A5A773626B&selectedIndex=10&ajaxhist=0&ajaxserp=0)
+![alt text](https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png)
 
 Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
 
