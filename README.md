@@ -43,7 +43,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 The GITHUB repository contains:
 
-• A ‘gitignore’ file containing any files or file types which should be ignored by the github repository
+• A *‘gitignore’* file containing any files or file types which should be ignored by the github repository
 
 • A python program file called *‘scikit-learn.ipynb’* which contains the following:
 
@@ -62,15 +62,15 @@ The GITHUB repository contains:
   
   2.	Related visualisation and plots
 
-• A ‘LICENSE’ file containing a copy of the MIT Licence
+• A *‘LICENSE’* file containing a copy of the MIT Licence
 
-• A ‘README.md’ file which contains:
+• A *‘README.md’* file which contains:
 
-  •	Introduction to the dataset 
-  •	Explanation of the 'XXX' 
-  •	Conclusions and findings        
-  •	How to run the python code
-  •	References used in completing the project
+  1.	An introduction to the dataset 
+  2.	An explanation of the 'XXX' 
+  3.	Conclusions and findings        
+  4.	How to run the python code
+  5.	References used in completing the project
 
 
 
@@ -86,10 +86,10 @@ The GITHUB repository contains:
 
 **Opening and running the code in the Jupyter Notebook**
 
-  •	Clone or download the github repository 'https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project' onto your local drive
-  •	Open the Jupyter Notebook files in your browser using CMDER
-  •	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook to re-run the entire code
-  •	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
+  1.	Clone or download the github repository 'https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project' onto your local drive
+  2.	Open the Jupyter Notebook files in your browser using CMDER
+  3.	Use 'Restart and Run All' in the 'Kernel' tab in Jupyter Notebook to re-run the entire code
+  4.	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
 
 **Libraries and Modules**
