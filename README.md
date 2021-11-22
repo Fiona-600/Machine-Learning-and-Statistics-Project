@@ -4,6 +4,8 @@
 
 **Submitted by Fiona Lee - 19 December 2021**
 
+<br/>
+
 **Introduction**
 
 This project provides an overview and demonstrations of the scikit-learn and scipy.stats packages. 
@@ -15,6 +17,7 @@ Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Pr
 *Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
 
 <br/>
+
 **Purpose of the project**
 
 The elements explored will be:
@@ -25,15 +28,18 @@ The elements explored will be:
 4. Related visualisations and plots 
 
 <br/>
+
 **Research & Assumptions**
 
 
 
 <br/>
+
 **Conclusions and Findings**
 
 
 <br/>
+
 **Structure & Project Navigation**
 
 The project will be stored in a GITHUB repository at url: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
@@ -72,6 +78,7 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
   2.	Related visualisations and plots
 
 <br/>
+
 **Required Programs**
 
   •	Anaconda Navigator 3 - https://www.anaconda.com/
@@ -87,6 +94,7 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
   •	Firefox Internet Explorer - https://www.mozilla.org/en-US/firefox/new/
 
 <br/>
+
 **Opening and running the code in the Jupyter Notebook**
 
   1.	Clone or download the github repository 'https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project' onto your local drive
@@ -95,6 +103,7 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
   4.	Hold 'Shift' + 'Enter' to run/test code in individual code cells in a Jupyter Notebook
 
 <br/>
+
 **Libraries and Modules**
 
   •	NumPy - ‘import numpy as np’
@@ -102,10 +111,13 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
   •	Matplotlib - ‘import matplotlib.pyplot as plt’
 
 
+<br/>
 
 **Author & Contributors**
 
 Ian McLoughlin for all the helpful tips in completing this assignment
+
+<br/>
 
 **References**
 
