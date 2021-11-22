@@ -47,9 +47,9 @@ The GITHUB repository contains:
 
 • A python program file called ‘scikit-learn.ipynb’ which contains:
   •  A demonstrations of the following three scikit-learn algorithms:
-      •
-      •   
-      •  
+      1. 
+      2.    
+      3.  
   •  Related visualisation and plots for each algorithm
   
 • A python program file called ‘scikit-stats.ipynb’ which contains:
@@ -115,4 +115,13 @@ Ian McLoughlin for all the helpful tips in completing this assignment
 
 **References**
 
-
+[1] 
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
