@@ -99,7 +99,7 @@ The GITHUB repository contains:
   •	From Pandas import Dataframe’       
   •	Matplotlib - ‘import matplotlib.pyplot as plt’
   •	from sklearn.metrics import r2_score 
-  •	from sklearn import linear_model  
+  •	from sklearn import linear_model   
   •	from sklearn.linear_model import LinearRegression  
 
 
