@@ -22,10 +22,10 @@ Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Pr
 
 The elements explored will be:
 
-• An overview of the scikit-learn and scipy.stats packages 
-• Demonstrations of three scikit-learn algorithms
-• Demonstration of a hypothesis test using ANOVA
-• Related visualisation and plots 
+1. An overview of the scikit-learn and scipy.stats packages 
+2. Demonstrations of three scikit-learn algorithms
+3. Demonstration of a hypothesis test using ANOVA
+4. Related visualisation and plots 
 
 
 **Research & Assumptions**
