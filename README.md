@@ -61,6 +61,8 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
   5.	Libraries and modules which need to be imported to run the code
   6.	References used in completing the project
 
+<br/>
+
 • A python program file called *‘scikit-learn.ipynb’* which contains the following:
 
   1. A demonstration of the following three scikit-learn algorithms:
@@ -70,6 +72,8 @@ The project will be stored in a GITHUB repository at url: https://github.com/Fio
     •	
   
   2.	Related visualisations and plots for each algorithm
+
+<br/>
 
 • A python program file called *‘scikit-stats.ipynb’* which contains:
 
