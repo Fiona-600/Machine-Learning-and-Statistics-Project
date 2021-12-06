@@ -1,7 +1,6 @@
-**Machine Learning and Statistics - 2021 Project Submission**
-**GMIT Higher Diploma in Data Analytics**
-**Submitted by Fiona Lee - 19 December 2021**
-<br/>
+**Machine Learning and Statistics - 2021 Project Submission** <br/>
+**GMIT Higher Diploma in Data Analytics** <br/>
+**Submitted by Fiona Lee - 19 December 2021** <br/>
 
 **Introduction**
 ***
@@ -12,6 +11,7 @@ Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Pr
 ![alt text](https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png)
 
 *Source: https://dataaspirant.com/wp-content/uploads/2014/10/scikit-learn-logo.png
+
 <br/>
 
 **Purpose of the project**
@@ -23,6 +23,7 @@ The elements explored will be:
 2. Demonstrations of three scikit-learn algorithms
 3. Demonstration of a hypothesis test using `ANOVA`, `T-test` and `Tukey` post hoc testing
 4. Related visualisations and plots 
+
 <br/>
 
 ***The Abalone Dataset***
@@ -37,7 +38,8 @@ The purpose of the analysis of the dataset is to predict the age of an abalone f
 
 ![alt text](https://cdn.shopify.com/s/files/1/0206/7404/products/Abalone-Shell_grande.jpg?v=1500585184)
 
-**Source Link:** https://cdn.shopify.com/s/files/1/0206/7404/products/Abalone-Shell_grande.jpg?v=1500585184
+**Source Link:** https://cdn.shopify.com/s/files/1/0206/7404/products/Abalone-Shell_grande.jpg?v=1500585184 
+<br/>
 
 **Repository link to the dataset:** https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project/blob/main/abalone.csv
 <br/>
@@ -56,13 +58,14 @@ The purpose of the analysis of the dataset is to predict the age of an abalone f
 
 **Target**
 - 'Age':  Number of Rings
+
 <br/>
 
 **Qualities and attributes of the Abalone dataset**
 
 The original dataset contained 4176 samples (rows) and 9 variables (columns) namely: 'Sex','Length', 'Diameter', 'Height','Whole_Weight', 'Schucked_Weight', 'Viscera_Weight', 'Shell_Weight','Age'. 
 
-The changes made to the original dataset are as follows:
+The changes made to the original dataset were as follows:
 
 - 2 samples with heights in excess of 0.5 mm were were deemed 'exceptional samples' and were removed from the dataset.  
 - 5 samples with heights less than 0.02 mm were were deemed 'exceptional samples' and were removed from the dataset.  
@@ -121,8 +124,7 @@ The values in the 'quality' column were amended as follows:
 <br/>
 
 The Mean, Median, Standard Deviation, Min and Max Values for each variable are contained in the scikit-learn.ipynb file
-<br/>
-<br/>
+
 <br/>
 
 **Research & Assumptions**
@@ -152,14 +154,15 @@ The GITHUB repository contains:
 • A *‘README.md’* file which contains:
 
   1.	The purpose of the project 
-  2.	Research and assumptions 
-  3.	Conclusions and findings  
-  4.	Structure and project navigation
-  5.	Required programs
-  6.	Details of how to run the code 
-  7.	Libraries and modules which need to be imported to run the code
-  8.	Authors and contributors
-  6.	References
+  2.  Information about the datasets
+  3.	Research and assumptions 
+  4.	Conclusions and findings  
+  5.	Structure and project navigation
+  6.	Required programs
+  7.	Details of how to run the code 
+  8.	Libraries and modules which need to be imported to run the code
+  9.	Authors and contributors
+  10.	References
 
 • A *‘requirements.txt’* file containing information that facilitates the user to quickly run the notebooks with minimal configuration
 
