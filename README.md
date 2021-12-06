@@ -4,7 +4,7 @@
 
 **Introduction**
 ***
-This project provides an overview and demonstrations of the scikit-learn and scipy.stats packages. 
+This project provides an overview and demonstrations of the scikit-learn and scipy-stats packages. 
 
 Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Project
 
@@ -19,7 +19,7 @@ Repository Link: https://github.com/Fiona-600/Machine-Learning-and-Statistics-Pr
 
 The elements explored will be:
 
-1. An overview of the scikit-learn and scipy.stats packages 
+1. An overview of the scikit-learn and scipy-stats packages 
 2. Demonstrations of three scikit-learn algorithms
 3. Demonstration of a hypothesis test using `ANOVA`, `T-test` and `Tukey` post hoc testing
 4. Related visualisations and plots 
@@ -228,7 +228,7 @@ The GITHUB repository contains:
 - Classification Report - 'from sklearn.metrics import classification_report'
 - Decision Tree Classifier - 'from sklearn.tree import DecisionTreeClassifier'
 
-*scipy.stats.ipynb file:*
+*scipy-stats.ipynb file:*
 
 - Pandas dataframes - 'import pandas as pd'
 - Seaborn- 'import seaborn as sns'
