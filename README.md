@@ -70,7 +70,7 @@ The changes made to the original dataset were as follows:
 - 2 samples with heights in excess of 0.5 mm were were deemed 'exceptional samples' and were removed from the dataset.  
 - 5 samples with heights less than 0.02 mm were were deemed 'exceptional samples' and were removed from the dataset.  
 <br/>
-The Mean, Median, Standard Deviation, Min and Max Values for each variable are contained in the scikit.stats.ipynb file
+The Mean, Median, Standard Deviation, Min and Max Values for each variable are contained in the scipy.stats.ipynb file
 <br/>
 <br/>
 <br/>
@@ -109,7 +109,7 @@ This dataset has the fundamental features which are responsible for affecting th
 **Target**
 
 - 'quality' 
-<br/>
+
 <br/>
 
 **Qualities and attributes of the Wine Quality dataset**
