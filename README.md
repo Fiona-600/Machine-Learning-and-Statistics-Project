@@ -147,6 +147,8 @@ The GITHUB repository contains:
 
 • A *‘gitignore’* file containing any files or file types which should be ignored by the github repository
 
+• *'abalone.csv'* file containing the abalone dataset
+
 • A *‘LICENSE’* file containing a copy of the MIT Licence
 
 • A *'project-instructions.pdf'* file which outlines detailed instructions for the project 
@@ -177,11 +179,13 @@ The GITHUB repository contains:
   2.	Related visualisations and plots for each algorithm
 <br/>
 
-• A python program file called *‘scikit-stats.ipynb’* which contains:
+• A python program file called *‘scipy-stats.ipynb’* which contains:
 
   1.	A demonstration of a hypothesis test using ANOVA
   
   2.	Related visualisations and plots
+
+• *'winequality-red.csv'* file containing the wine quality dataset
 
 <br/>
 
